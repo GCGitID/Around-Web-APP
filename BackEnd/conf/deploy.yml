@@ -1,0 +1,13 @@
+elasticsearch:
+ es_url: "{YOUR_ES_URL}"
+ es_username: "YOUR_ES_USERNAME"
+ es_password: "YOUR_ES_PASSWORD"
+
+obs:
+ obs_bucket: "YOUR_OBS_BUCKET"
+ obs_ak: "YOUR_UBS_AK"
+ obs_sk: "YOUR_UBS_SK"
+ obs_endpoint: "YOUR_UBS_ENDPOINT"
+
+token:
+ secret: "secret"
